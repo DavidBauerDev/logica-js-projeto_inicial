@@ -1,0 +1,1 @@
+let diaDaSemana = prompt("qual é o dia da semana?");
